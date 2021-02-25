@@ -4,14 +4,12 @@ This page contains brief bios of our team. Teammates may also have a personal do
 
 To add yourself to this page, copy the following template, paste it at the end of this file, and make it about yourself!
 
-## Full Name (optional pronouns)
+## Katerina Nikolova
 
-- Role(s)
-- City, region, country, country flag emoji (optional: add yourself to [the team locations map](locations.md)!)
-- GitHub: username
-- [you@sourcegraph.com](mailto:you@sourcegraph.com), other social media links (if any)
-- Name pronunciation (record an audio file from your phone [here](https://www.name-coach.com/))
-- Bio (hobbies, work experience, family, pets, etc.)
+- Executive Business Partner to Quinn Slack
+- Walnut Creek, California
+- katerina@sourcegraph.com, https://www.linkedin.com/in/katerinanikolova/
+- Katerina is a single mom to two girls. Originally from Bulgaria, Katerina has lived in Belgium, France, China, and Dubai.  She holds a Bachelor in mass communications from UC Berkeley and a Master in Public Administration from San Francisco State University. She has partnered with executives at Chevron Corp, Stanford, Alibaba, Credit Karma and a few investment companies. She is a morning runner, loves to hike during the weekends, and loves to explore new recipes. Traveling is her absolute passion.
 
 ## Quinn Slack
 
